@@ -14,18 +14,7 @@ namespace Practica_2
             //System.Console.WriteLine("Hello World");
 
 
-            //Variables
-            var numero = 4;
-            var saludo = "hola";
-            System.Console.WriteLine(numero);
-            System.Console.WriteLine(saludo);
-            System.Console.WriteLine(numero + 2);
-            System.Int32 wholeNumber;
-            System.Double pi = 3.1416;
-            System.Boolean status = true;
-            System.String cadena = "hello";
-            System.Char letter = 'z';
-            Console.ReadKey();
+            Console.ReadLine();
 
         }
     }
