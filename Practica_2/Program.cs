@@ -12,7 +12,6 @@ namespace Practica_2
         {
             //Mostrar hello world en la consola
             //System.Console.WriteLine("Hello World");
-
        
             //Variables
             var numero = 4;
@@ -26,6 +25,7 @@ namespace Practica_2
             System.String cadena = "hello";
             System.Char letter = 'z';
             Console.ReadKey();
+
 
 
 
