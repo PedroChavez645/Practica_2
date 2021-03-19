@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operaciones", "Operaciones\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burguer", "Burguer\Burguer.csproj", "{8314BE37-99F0-48DA-81D5-F26D40D6F239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfChar", "IfChar\IfChar.csproj", "{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8314BE37-99F0-48DA-81D5-F26D40D6F239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8314BE37-99F0-48DA-81D5-F26D40D6F239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8314BE37-99F0-48DA-81D5-F26D40D6F239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
