@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burguer", "Burguer\Burguer.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfChar", "IfChar\IfChar.csproj", "{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormaPago", "FormaPago\FormaPago.csproj", "{CDD5D045-2526-43BC-8BFA-7E1BD59D06EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2DA7F11-A994-4FA8-B908-AE6840E1B18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD5D045-2526-43BC-8BFA-7E1BD59D06EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD5D045-2526-43BC-8BFA-7E1BD59D06EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD5D045-2526-43BC-8BFA-7E1BD59D06EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD5D045-2526-43BC-8BFA-7E1BD59D06EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
